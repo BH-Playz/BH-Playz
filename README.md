@@ -1,0 +1,3 @@
+- Hi, I’m BH Playz
+- I’m interested in computers
+- I’m currently learning Python & Spanish
